@@ -1,7 +1,7 @@
 **************************************************
 *               Terell Johnson                   *
 *               16 March 2025                    * 
-*            Artifical Intelligence              * 
+*            Artificial Intelligence              * 
 *      Assignment Three: Genetic Algorithms      *
 **************************************************
 
@@ -11,11 +11,10 @@
 --------------------------------
 Number of Generations:
         One major assumption is that 100 generations is enough to find an optimal
-        solution this problem. This assumption comes after performing running 
-        tests that did not find any better solutions than the one that my current
-        implementations finds. 
+        solution to this problem. This assumption comes after running tests that did
+        not find any better solutions than the one that my current implementation finds. 
 
-        I choose to set 100 generations to the max number of generations for simplicity
+        I chose to set 100 generations as the max number of generations for simplicity
         while still finding an optimal solution.
 
 
